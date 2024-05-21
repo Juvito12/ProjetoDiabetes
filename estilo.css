@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "poppins", sans-serif;   
+    background-image: url(medicina-de-fundo-em-estilo-desenhado-a-mao_23-2147761198.avif);
+    font-size: 25px;
+}
+
+.inicio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    margin: 8rem;
+    border: 2px solid black;
+    background-color: white;
+    border-style: none;
+}
+
+
+.cabeca{
+    border: 3px solid black;
+    border-style: none;
+    background-color: rgba(163, 241, 241, 0.986);
+    width: 100%;
+    text-align: center;
+}
+
+
+.btn{
+    padding: 10px 70px;
+    background-color: #a3f1f1fb;
+    border-style: none;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.radio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.pergunta1, .pergunta2,
+.pergunta3, .pergunta4{
+    margin: 10px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
+
+
+
+
+
+
+
+
+
