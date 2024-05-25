@@ -3,7 +3,7 @@ body{
     margin: 0;
     font-family: "poppins", sans-serif;   
     background-image: url(medicina-de-fundo-em-estilo-desenhado-a-mao_23-2147761198.avif);
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .inicio{
@@ -49,6 +49,12 @@ body{
     margin-top: 70px;
 }
 
+#finish p {
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 40px;
+}
 
 
 
