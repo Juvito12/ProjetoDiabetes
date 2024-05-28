@@ -33,6 +33,7 @@ body{
     border-style: none;
     border-radius: 25px;
     font-size: 25px;
+    margin: 15px;
 }
 
 .radio{
@@ -53,7 +54,12 @@ body{
     align-items: center;
     justify-content: center;
     padding: 5px;
-    margin: 40px;
+    margin: 25px;
+}
+
+.rodape{
+    padding: 5px;
+    margin: 25px;
 }
 
 
